@@ -4,16 +4,16 @@ This is a simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScrip
 
 # Features
 
-Responsive Design: The game is designed to be played on desktop and mobile browsers.
-Interactive Interface: Click on any empty cell to place your symbol ('X' or 'O').
-Winning Detection: Automatically detects and alerts when a player wins or when the game ends in a tie.
-Reset Option: Players can restart the game at any time.
+1.Responsive Design: The game is designed to be played on desktop and mobile browsers.
+2.Interactive Interface: Click on any empty cell to place your symbol ('X' or 'O').
+3.Winning Detection: Automatically detects and alerts when a player wins or when the game ends in a tie.
+4.Reset Option: Players can restart the game at any time.
 
 # Technologies Used
 
-HTML5
-CSS3 (including Flexbox and Grid layout)
-Vanilla JavaScript (ES6+)
+- HTML5
+- CSS3 (including Flexbox and Grid layout)
+- Vanilla JavaScript (ES6+)
 
 # How to Use
 
